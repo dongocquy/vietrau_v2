@@ -17,11 +17,9 @@
 \StateMachineModule	17.1.6.0
 \TreeListEditorsModuleBase	17.1.6.0
 \ViewVariantsModule	17.1.6.0
-\VietRauModule	1.0.7782.36856
+\VietRauModule	1.0.7794.29764
 \ChartWindowsFormsModule	17.1.6.0
 \DashboardsWindowsFormsModule	17.1.6.0
-\FileAttachmentsWindowsFormsModule	17.1.6.0
-\HtmlPropertyEditorWindowsFormsModule	17.1.6.0
 \NotificationsWindowsFormsModule	17.1.6.0
 \PivotChartWindowsFormsModule	17.1.6.0
 \PivotGridWindowsFormsModule	17.1.6.0
@@ -30,8 +28,5 @@
 \ScriptRecorderWindowsFormsModule	17.1.6.0
 \TreeListEditorsWindowsFormsModule	17.1.6.0
 \ValidationWindowsFormsModule	17.1.6.0
-\ImportWizardModule	17.1.6.6
-\ImportWizardWindowsFormsModule	17.1.6.6
-\WizardUIWindowsFormsModule	17.1.6.6
-\VietRauWindowsFormsModule	1.0.7782.36857
+\v2WindowsFormsModule	1.0.7794.29767
 \SecurityModule	17.1.6.0

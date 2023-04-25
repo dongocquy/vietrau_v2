@@ -1,5 +1,24 @@
-﻿<Application Logo="ExpressAppLogo">
-	<Options Skin="Visual Studio 2013 Blue" UIType="TabbedMDI" FormStyle="Ribbon">
-	  <RibbonOptions RibbonControlStyle="Office2013" />
-	</Options>
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Application Logo="ExpressAppLogo">
+  <NavigationItems>
+    <Items>
+      <Item Id="Tiện ích">
+        <Items>
+          <Item Id="@560b60da-e555-416d-9fee-d3d6ccbd41f4" ViewId="AuditDataItemPersistent_ListView" IsNewNode="True" />
+        </Items>
+      </Item>
+    </Items>
+  </NavigationItems>
+  <Options Skin="Visual Studio 2013 Blue" UIType="TabbedMDI" FormStyle="Ribbon">
+    <RibbonOptions RibbonControlStyle="Office2013" />
+  </Options>
+  <SchemaModules>
+    <SchemaModule Name="CloneObjectModule" Version="17.1.6.0" IsNewNode="True" />
+    <SchemaModule Name="ImportWizardModule" Version="17.1.6.6" IsNewNode="True" />
+    <SchemaModule Name="ImportWizardWindowsFormsModule" Version="17.1.6.6" IsNewNode="True" />
+    <SchemaModule Name="SchedulerModuleBase" Version="17.1.6.0" IsNewNode="True" />
+    <SchemaModule Name="SchedulerWindowsFormsModule" Version="17.1.6.0" IsNewNode="True" />
+    <SchemaModule Name="SystemModule" Version="17.1.6.0" IsNewNode="True" />
+    <SchemaModule Name="SystemWindowsFormsModule" Version="17.1.6.0" IsNewNode="True" />
+  </SchemaModules>
 </Application>
